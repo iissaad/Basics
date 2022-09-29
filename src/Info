@@ -1,0 +1,60 @@
+Basics in Order:
+
+
+Variable basics:
+    Datatypes
+        -int, double, boolean, String, short, long, byte
+        -cast one datatype to another with ()
+
+    Operators
+        -+, -, *, /, %
+        -++, --
+
+    Expressions
+        Include operands and operators
+    
+
+
+How to use your data:
+    System.out.println();
+    
+    Scanner scanner = new Scanner();
+
+    Math class (Math.max, Math.min, Math.abs, Math.sqrt, Math.pi for starters)
+
+    Random random = new Random();
+
+    Parts of a statement
+        -() are parameters
+            -use , if it takes multiple parameters
+        -{} are the contents
+        
+    If Statements
+        -<, >, <=, >=, ==
+        -else if
+        --&&, ||, !
+
+    Switch Statements
+        switch () {
+            case value:
+                
+                break;
+        
+            default:
+                break;
+        }
+    
+    Loops
+        -While Loops
+            -while () {}
+            -Loops as long as the condition is true
+        -For Loops
+            -for ( , , ) {}
+            -Loops a limited number of times
+        -Nested Loops
+    
+    Arrays
+        -DATATYPE[] VARIABLENAME
+            -= {};, or = new DATATYPE();
+            -[][][][][] Multiple Dimensions
+        
